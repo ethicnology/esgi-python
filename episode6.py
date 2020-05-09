@@ -1,6 +1,6 @@
 import re
 try:
-    f = open('./episode_6/ep6.txt', "r")
+    f = open('ep6.txt', "r")
     f.seek(0)
     first_char = f.read(1)
     if not first_char:
