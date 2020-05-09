@@ -22,5 +22,3 @@ if chaine == chaine[::-1]:
     print("This is a palindrome")
 else:
     print(chaine[::-1])
-
-# 18
